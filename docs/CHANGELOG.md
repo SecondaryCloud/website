@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/SecondaryCloud/website/compare/v1.0.1...v1.0.2) (2021-06-03)
+
+
+### Bug Fixes
+
+* Assignee in dependabot ([4cb2b6a](https://github.com/SecondaryCloud/website/commit/4cb2b6a10fefe048b531eab7ec0eb4e858d7e2fb))
+
 ## [1.0.1](https://github.com/SecondaryCloud/website/compare/v1.0.0...v1.0.1) (2021-06-03)
 
 
