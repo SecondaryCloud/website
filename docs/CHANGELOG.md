@@ -1,3 +1,11 @@
+# 1.0.0 (2021-06-03)
+
+
+### Features
+
+* Add cname ([b7978e0](https://github.com/SecondaryCloud/website/commit/b7978e07e99c802acc5825af02b5729106cf0834))
+* Initial commit ([4595ec5](https://github.com/SecondaryCloud/website/commit/4595ec5ef80c6aef652baf91315e3587cfba88c6))
+
 # [1.3.0](https://github.com/sabrina-go/blog/compare/v1.2.0...v1.3.0) (2021-05-20)
 
 
