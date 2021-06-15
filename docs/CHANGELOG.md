@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/SecondaryCloud/website/compare/v1.0.3...v1.0.4) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** bump nuxt from 2.15.6 to 2.15.7 ([5c60ff7](https://github.com/SecondaryCloud/website/commit/5c60ff7cba16ff5a2adb9973c8009d841bc0934a))
+
 ## [1.0.3](https://github.com/SecondaryCloud/website/compare/v1.0.2...v1.0.3) (2021-06-07)
 
 
