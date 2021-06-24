@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/SecondaryCloud/website/compare/v1.0.6...v1.1.0) (2021-06-24)
+
+
+### Features
+
+* Improve index page and add navbar ([1d5f2ba](https://github.com/SecondaryCloud/website/commit/1d5f2ba89d388f00cafb18c72dd8d87c1bf7566f))
+
 ## [1.0.6](https://github.com/SecondaryCloud/website/compare/v1.0.5...v1.0.6) (2021-06-23)
 
 
