@@ -6,6 +6,10 @@ h1 {
   font-size: 2rem;
 }
 
+img {
+  max-width: 100%;
+}
+
 fieldset {
   border: 0;
 }
@@ -19,4 +23,16 @@ fieldset {
   clip: rect(0, 0, 0, 0);
   border: 0;
   display: block;
+}
+
+.button {
+  height: 48px;
+  padding: 12px 24px;
+  background-color: $botticelli;
+  color: $eden;
+  font-family: $font-roboto;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  text-decoration: none;
+  text-align: center;
 }
