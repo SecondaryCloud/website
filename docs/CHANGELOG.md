@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/SecondaryCloud/website/compare/v1.1.0...v1.1.1) (2021-06-30)
+
+
+### Bug Fixes
+
+* **deps:** bump core-js from 3.15.1 to 3.15.2 ([346268f](https://github.com/SecondaryCloud/website/commit/346268fb682968f5e18845bf4c6640738074c9e1))
+
 # [1.1.0](https://github.com/SecondaryCloud/website/compare/v1.0.6...v1.1.0) (2021-06-24)
 
 
