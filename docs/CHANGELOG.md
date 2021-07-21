@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/SecondaryCloud/website/compare/v1.1.2...v1.1.3) (2021-07-21)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/setup-node from 2.2.0 to 2.3.0 ([ba92291](https://github.com/SecondaryCloud/website/commit/ba92291baa015c0cc4998dad6235180e1ee7aa2c))
+
 ## [1.1.2](https://github.com/SecondaryCloud/website/compare/v1.1.1...v1.1.2) (2021-07-01)
 
 
